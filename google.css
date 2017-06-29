@@ -1,0 +1,13 @@
+.fit {
+display: block;
+}
+
+#navbar {
+  display: inline;
+  float: right;
+}
+
+#footer {
+  display: inline;
+  clear: both;
+}
